@@ -1,0 +1,73 @@
+[
+  {
+    "alias": "test.metric.1",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.2",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.3",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.4",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.5",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.6",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.7",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.8",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.9",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  },
+  {
+    "alias": "test.metric.10",
+    "metricType": "guage",
+    "tags": ["instance:Test_instance"],
+    "checkName": "test_check_1",
+    "value": 100
+  }
+
+]
